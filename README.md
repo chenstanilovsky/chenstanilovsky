@@ -4,7 +4,7 @@
 
 <img src="https://media1.giphy.com/media/YQitE4YNQNahy/200.gif"></img>
 
-🔭 I’m currently working on [Self-Teaching AI](https://github.com/henchik/Learning-CS-AI-ML/projects/1)
+- 🔭 I’m currently working on [Self-Teaching AI](https://github.com/henchik/Learning-CS-AI-ML/projects/1)
 - 🌱 I’m currently learning Python using "Automate the Boring Stuff" by Al Sweigart
 - 💬 Ask me about being a mentee at Microsoft! 
 - 📫 How to reach me: Send me an email through the button above or connect with me on LinkedIn!
