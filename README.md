@@ -1,6 +1,6 @@
 ### Welcome 😄
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chen%20Stanilovsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-stanilovsky/)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Chen%20Stanilovsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-stanilovsky/)](https://www.linkedin.com/in/chen-stanilovsky/)
 
 
 🔭 I’m currently working on [Self-Teaching AI](https://github.com/henchik/Learning-CS-AI-ML/projects/1)
