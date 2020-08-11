@@ -1,7 +1,5 @@
 ### Welcome 😄
 
-[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=henchik)](https://github.com/henchik)
-
 [![Linkedin Badge](https://img.shields.io/badge/-Chen%20Stanilovsky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-stanilovsky/)]()
 
 
@@ -12,3 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=henchik)](https://github.com/henchik)
