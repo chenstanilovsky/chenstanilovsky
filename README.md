@@ -13,6 +13,6 @@ I'm Chen Stanilovsky, a Computer Science major at [Hunter College](https://hunte
 - 💬 Ask me about being a mentee at Microsoft! 
 - 📫 How to reach me: Send me an email through the button above or connect with me on LinkedIn!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I LOOOOOOVE CARS! 🏎
+- ⚡ Fun fact: I love cars 🏎
 
 [![henchik's github stats](https://github-readme-stats.vercel.app/api?username=henchik)](https://github.com/henchik)
