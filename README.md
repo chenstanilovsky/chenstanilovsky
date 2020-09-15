@@ -15,4 +15,4 @@ I'm Chen Stanilovsky, a Computer Science major at [Hunter College](https://hunte
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars 🏎
 
-[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=henchik)](https://github.com/henchik)
+[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=chenstanilovsky)](https://github.com/chenstanilovsky)
