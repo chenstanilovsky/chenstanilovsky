@@ -8,11 +8,4 @@ I'm Chen Stanilovsky, a Computer Science major at [Hunter College](https://hunte
 </br>
 <img align='center' src="https://media1.giphy.com/media/YQitE4YNQNahy/200.gif"></img>
 
-- 🔭 I’m currently working on [Autodidacticism](https://github.com/henchik/Autodidacticism/projects/1)
-- 🌱 I’m currently learning Python using "Automate the Boring Stuff" by Al Sweigart
-- 💬 Ask me about being a mentee at Microsoft! 
-- 📫 How to reach me: Send me an email through the button above or connect with me on LinkedIn!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cars 🏎
-
 [![henchik's github stats](https://github-readme-stats.vercel.app/api?username=chenstanilovsky)](https://github.com/chenstanilovsky)
