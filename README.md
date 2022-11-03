@@ -6,7 +6,7 @@
 I grew up in Brooklyn, NY and am a huge fan of blockchain and AI tech! I am always looking to learn more, curiosity drives me. Currently studying CS at [Hunter College](https://hunter.cuny.edu/). At the same time I am working on the future of Web3 at [Blue Studios](https://bluestudios.io/)
 
 </br>
-<iframe src="https://giphy.com/embed/s4jKS7xJVqbsOHy6cd" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/s4jKS7xJVqbsOHy6cd">via GIPHY</a></p>
+<img src="https://giphy.com/embed/s4jKS7xJVqbsOHy6cd"></img>
 </br>
 
 Feel free to connect with me on LinkedIn! If you're looking for advice on finding an internship, don't be shy to message me! I have done internships at Bloomberg, and a mentorship at Microsoft.
