@@ -8,6 +8,6 @@ Feel free to connect with me on LinkedIn! If you're looking for advice on findin
 
 <a href="[url](https://opensea.io/collection/blockchainadventuresofbellathebluebot)"><img src="https://user-images.githubusercontent.com/30581852/199850113-7f04e318-07c8-4bd8-bba3-bc668d1cdf64.gif" align="left" height="250" width="250" ></a>  
 
-<a href="[url](https://www.bloomberg.com/)"><img src="[https://user-images.githubusercontent.com/30581852/199850113-7f04e318-07c8-4bd8-bba3-bc668d1cdf64.gif](https://user-images.githubusercontent.com/30581852/199850310-eb6c3987-5b25-4d27-8482-76ea7dc33f2b.png))" align="left" height="520" width="240" ></a>  
+<a href="[url](https://www.bloomberg.com/)"><img src="https://user-images.githubusercontent.com/30581852/199850310-eb6c3987-5b25-4d27-8482-76ea7dc33f2b.png" align="center" height="520" width="240" ></a>  
  
 [![henchik's github stats](https://github-readme-stats.vercel.app/api?username=chenstanilovsky)](https://github.com/chenstanilovsky)
