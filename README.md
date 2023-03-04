@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chen%20Stanilovsky-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenstanilovsky/) [![Gmail Badge](https://img.shields.io/badge/-chen.stanilovsky@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:chen.stanilovsky@gmail.com)  
 
-[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=chenstanilovsky)](https://github.com/chenstanilovsky)
-
 Incoming SWE @ Bloomberg
 
 I grew up in Brooklyn, NY and am a huge fan of blockchain and AI tech! I am always looking to learn more, curiosity drives me. I recently just graduated with a CS degree from [Hunter College](https://hunter.cuny.edu/). During that same time I was working on the future of Web3 at [Blue Studios](https://bluestudios.io/).  
