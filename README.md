@@ -4,4 +4,4 @@
 
 SWE @ [Bloomberg](https://www.bloomberg.com/)
 
-I'm a coder interested in full-stack development, AI, and blockchain. Familiar with TS/JS, Python, C++, SQL, CI/CD, and Cloud. I've worked on projects at Bloomberg LP and Blue Studios. Computer Science graduate from CUNY Hunter College. 
+I'm a coder interested in full-stack development, AI, and blockchain. Familiar with TS/JS, Python, C++, SQL, CI/CD, and Cloud solutions. I've worked on projects at Bloomberg LP and Blue Studios. Computer Science graduate from CUNY Hunter College. 
